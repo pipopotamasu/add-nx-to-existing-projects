@@ -8,5 +8,11 @@
   "bugs": {
     "url": "https://github.com/pipopotamasu/add-nx-to-existing-projects/issues"
   },
-  "homepage": "https://github.com/pipopotamasu/add-nx-to-existing-projects#readme"
+  "homepage": "https://github.com/pipopotamasu/add-nx-to-existing-projects#readme",
+  "devDependencies": {
+    "@nrwl/workspace": "latest",
+    "@nrwl/cli": "latest",
+    "@nrwl/tao": "latest",
+    "typescript": "4.2.4"
+  }
 }
