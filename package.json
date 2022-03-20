@@ -1,0 +1,18 @@
+{
+  "name": "add-nx-to-existing-projects",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipopotamasu/add-nx-to-existing-projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pipopotamasu/add-nx-to-existing-projects/issues"
+  },
+  "homepage": "https://github.com/pipopotamasu/add-nx-to-existing-projects#readme",
+  "devDependencies": {
+    "@nrwl/workspace": "latest",
+    "@nrwl/cli": "latest",
+    "@nrwl/tao": "latest",
+    "typescript": "4.2.4"
+  }
+}

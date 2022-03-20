@@ -1,5 +1,5 @@
 {
-  "name": "add-nx-to-existing-projects",
+  "name": "appA",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
